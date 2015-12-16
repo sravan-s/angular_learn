@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script"
+			],
+			[
+				"li",
+				"liveReload"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"jq",
+				"jQuery.map	jQuery.map"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"Sy",
+				"system"
+			],
+			[
+				"poly",
+				"polygons"
+			],
+			[
+				"pol",
+				"polygons"
+			],
+			[
+				"se",
+				"setMap"
+			],
+			[
+				"co",
+				"cords"
+			],
+			[
+				"m",
+				"maps"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pr",
+				"prevTier"
+			],
+			[
+				"p",
+				"prevTier"
+			],
+			[
+				"l",
+				"len"
+			],
+			[
+				"get",
+				"getInfo"
+			],
+			[
+				"zoo",
+				"zoom"
+			],
+			[
+				"tie",
+				"tiers"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"zoom",
+				"zoom_changed"
+			],
+			[
+				"ti",
+				"tier"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"uni",
+				"university"
+			],
+			[
+				"not",
+				"noteRating"
+			],
+			[
+				"note",
+				"noteTitle"
+			],
+			[
+				"course",
+				"courseId"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"cour",
+				"courseId"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"at",
+				"atbot"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"an",
+				"angular"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"b",
+				"blockquote	Tag"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"i",
+				"I	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"t",
+				"thead	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"a",
+				"vertical-align"
+			],
+			[
+				"f",
+				"frame	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"H",
+				"HR	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ss192/angular/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac:in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				":pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa:in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa:i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ss192/angular/build/index.html",
+		"/home/ss192/angular/bower_components/jquery/dist/jquery.js",
+		"/home/ss192/angular/index.html",
+		"/home/ss192/angular/src/scripts/app.js",
+		"/home/ss192/angular2/develop/untitled",
+		"/home/ss192/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/ss192/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/ss192/newmaps/app.js",
+		"/home/ss192/Snote/admin/sass/partials/dld.html",
+		"/home/ss192/Snote/sharenote/platforms/android/ant.properties",
+		"/var/www/html/my_app/loginRequest.php",
+		"/var/www/html/my_app/retriveCourse.php",
+		"/var/www/html/my_app/retriveSem.php",
+		"/var/www/html/my_app/retriveNotes.php",
+		"/var/www/html/proj_doc/log_in.php",
+		"/var/www/html/my_app/requestHandler.php",
+		"/var/www/html/bg/index.html",
+		"/var/www/html/cakephp/testapp/README.md",
+		"/var/www/html/cakephp/testapp/src/Model/Table/PublicationsTable.php",
+		"/var/www/html/cakephp/testapp/src/Model/Table/IssuesTable.php",
+		"/var/www/html/cakephp/testapp/vendor/cakephp/cakephp/src/Database/Schema/Collection.php",
+		"/var/www/html/test/index.html",
+		"/var/www/html/test/partials/view1.html",
+		"/var/www/html/test/modularityTest.js",
+		"/var/www/html/admin/welcome_get.php",
+		"/var/www/html/test/index.php",
+		"/var/www/html/127_0_0_1.sql",
+		"/home/ss192/mount.txt",
+		"/home/ss192/node/hello.js",
+		"/home/ss192/HTML/libraries and frameworks/Semantic-UI-1.11.6/semantic.json",
+		"/home/ss192/HTML/projects/resume_template/index.html",
+		"/home/ss192/SIBI CG LAB/COMPUTER GRAPHICS/K_BRES.C",
+		"/run/media/ss192/C51B-D993/proj_medshop/index.php",
+		"/home/ss192/HTML/angular.js",
+		"/home/ss192/HTML/resume/index7.html",
+		"/home/ss192/HTML/angular-scroll.js",
+		"/home/ss192/HTML/sucess/js/sucess_cus.js",
+		"/run/media/ss192/C51B-D993/proj/website/remarks/remarks.html",
+		"/run/media/ss192/C51B-D993/proj/website/complaints/complaints.html",
+		"/run/media/ss192/C51B-D993/proj/website/about/about.html",
+		"/run/media/ss192/C51B-D993/proj/website/index.html",
+		"/run/media/ss192/C51B-D993/proj/website/login.html",
+		"/run/media/ss192/C51B-D993/proj/website/css/cus_color.css",
+		"/home/ss192/HTML/resume/index.html",
+		"/home/ss192/HTML/resume/js/custom.js",
+		"/home/ss192/HTML/Jquery/index.html",
+		"/home/ss192/HTML/starbucks/mission.html",
+		"/home/ss192/HTML/resume/js/jquery2.js",
+		"/home/ss192/HTML/starbucks/index.html",
+		"/home/ss192/HTML/starbucks/www.yagnadhruva.in.htm",
+		"/home/ss192/HTML/p1.HTML",
+		"/run/media/ss192/C51B-D993/$RECYCLE.BIN/Modules.txt",
+		"/home/ss192/HTML/testanimal.html",
+		"/home/ss192/HTML/webpage.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a2vCharts.colorset[4]",
+			"a2vCharts.colorset[3]",
+			"a2vCharts.colorset[2]",
+			"a2vCharts.colorset[1]",
+			"a2vCharts.colorset[0]",
+			"1500px",
+			"polygons",
+			";\n",
+			"342",
+			"unmoun",
+			"h2",
+			"vali",
+			"validat",
+			"validate",
+			"input validate",
+			"input",
+			"validate",
+			"input",
+			"</td>",
+			"<td>",
+			"btn-flat\"",
+			"lighten-3\"",
+			"header",
+			"h2",
+			"<h3>",
+			"<center>",
+			"h4",
+			"<",
+			"</BUTTON>",
+			"<BUTTON>",
+			"></",
+			"s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"#b2b2b2\"",
+			"\"#666\"",
+			"\"#b9e063\"",
+			"\"#9ac35e\"",
+			"\"#70c339\"",
+			"</tr>",
+			"<tr>",
+			"bth-flat waves-blue waves-effect\"",
+			"lighten-3 z-depth-2\"",
+			"header flow-text",
+			"h1",
+			"<h1>",
+			"<center class=\"flow-text\">",
+			"h3",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ss192/angular/gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}

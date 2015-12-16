@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "authors": [
+    "sravan-s <sravans2011@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.8",
+    "lodash": "~3.10.1",
+    "jquery": "~2.1.4"
+  }
+}
