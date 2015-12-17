@@ -8,20 +8,36 @@ function myController ($scope) {
 
 
 myApp.controller('listController', myList);
-function myList($scope) {
-	console.log('list initaied');
-	$.ajax({
-		url: "https://hackerearth.0x10.info/api/problems?type=json&query=list_problems",
-		success: function(data) {
-			console.log(JSON.parse(data));
-		}
+function myList($scope, $http) {
+	var _this = this;
+	$http({
+	    url: "https://hackerearth.0x10.info/api/problems?type=json&query=list_problems",
+	    method: "get"
+	}).success(function(data, status, headers, config) {
+	    $scope.problems = data.problems;
+	}).error(function(data, status, headers, config) {
+	    $scope.status = status;
 	});
 }
 
-myApp.directive('list-item', defineListItem);
+myApp.directive('listItem', defineListItem);
+
 function defineListItem () {
+	
+	function linkage($scope, element, attrs) {
+		
+	};
 	return {
-		restrict: 'EA',
-		template: "<div><a>{{name}}</a><a>{{rating}}</a></div>"
+		link: linkage,
+		controller: function() {
+			console.log("controler initated");
+		},
+		restrict: 'E',
+		template: "<h3>List Item</h3><div><a>{{problem.name}}</a><a>{{problem.rating}}</a></div>"	
 	};
 }
+
+myApp.factory('messenger', function () {
+	var message = {};
+	return message;
+});
